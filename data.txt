@@ -1,0 +1,8 @@
+https://web.physics.utah.edu/~detar/lessons/python/numpy_fft/node3.html
+
+https://www.youtube.com/watch?v=Qk0zUZW-U_M
+
+https://www.youtube.com/watch?v=Qk0zUZW-U_M
+
+https://levelup.gitconnected.com/representing-a-square-wave-with-a-fourier-series-and-python-6d43beb19442
+
